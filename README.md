@@ -12,6 +12,5 @@ new change
 this is other change file
 ----------------------------------
 
-this canbe done   -- mac
+this canbe done   -- iMac  & macBook
 
-what else to say? -- mac
