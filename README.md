@@ -4,4 +4,5 @@ Let's Learn how to commit remote depository
 
 creat dev_kayson
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
